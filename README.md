@@ -1,4 +1,5 @@
-# Excursion Website-Project from the CodeCademy - Git & GitHub course
+# Excursion 
+## Website-Project from the CodeCademy - Git & GitHub course
 
 Project done using only the Command Line interface and Emacs.
 
